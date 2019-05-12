@@ -1,0 +1,6 @@
+/plugins/
+/test/
+/.nuxt/
+/assets/
+/node_modules/
+/.tailwind/
