@@ -13,5 +13,6 @@ module.exports = {
     'plugin:vue/recommended',
   ],
   rules: {
+    'no-multiple-empty-lines': 0
   }
 }
