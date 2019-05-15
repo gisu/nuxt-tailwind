@@ -1,6 +1,6 @@
-# undefined.properties
+# PROJECT
 
-> Personal Blog
+> DESCRIPTION
 
 ## Build Setup
 
